@@ -1,6 +1,6 @@
 ## Welcome to my Github!
 
-![image](https://user-images.githubusercontent.com/103549321/213547498-030aeef3-08d8-4482-8fb3-f1704b5f3bfc.png)
+![image](https://user-images.githubusercontent.com/103549321/213549335-6ea771a8-9149-4391-bce3-cb62e6ababc2.png)
 
 This is a work in progress, with a few small projects.
 
